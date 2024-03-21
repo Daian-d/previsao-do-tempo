@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Open Sans',sans-serif;   
+    
+}
+
+body{
+    /*vh siginificca ira ocupar toda a tela*/
+    height: 100vh;
+    /*vh para ocupar toda a largura da tela*/
+    width: 100vh;
+    display: flex;
+    /*para alinhar o eixo horizontal para o centro*/
+    justify-content: center;
+    /*para alinha o eixo vertical para centro da tela*/
+    align-items: center; 
+    background-image: url("https://images.unsplash.com/photo-1484902945377-bd2a38e625cd?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTcxMDU0NzkzOA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600");
+}
+
+.caixa-maior{
+    background: black;
+    opacity: 0.7;
+    border-radius: 25px ;
+    padding: 20px;
+    /*para telas menores*/
+    width: 95%;
+    /*para telas maiores*/
+    max-width: 350px; 
+}
+
+.input-cidade{
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 18px;
+    background-color: #7c7c7c2b;
+    color: #ffff;
+    text-transform: uppercase;
+    /*Irá fazer o calculo do espaço desejado, dimimuindo o aumentando o valor*/ 
+    width:calc(100% - 60px)
+
+} 
+
+
+.botao-busca{
+   border: none;
+   outline: none;
+   padding: 10px;
+   border-radius: 50px;
+   background-color: #7c7c7c2b ;
+   cursor: pointer;
+   /*O botão sera lançado para a direita com float para alterar o espaço diminua ou aumente no widht:cal()*/
+   float: right;
+}
+
+.botao-busca:hover{
+    background-color: #ffff;
+}
+
+.img-busca{
+    width: 20px;
+}
+
+.caixa-media{
+    margin: 30px;
+}
+
+.cidade{
+    color: #ffff;
+    font-size: 35px;
+    font-weight: 300;
+}
+.temp{
+    font-size: 30px;
+    color: #ffff;
+    margin-top: 20px;
+    align-items: center;
+   
+}
+
+.max-temp{
+    font-size: 20px;
+    color: #ffff;
+    margin-top: 20px;
+    align-items: center;
+   
+    
+    
+}
+
+.min-temp{
+    font-size: 20px;
+    color: #ffff;
+    margin-top: 20px;
+    align-items: center;
+   
+    
+
+}
+.caixa-menor{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.text-previsao{
+    color: #ffff;
+    margin-left:20px;
+    text-transform: capitalize; /*somente a primeira letra em maiscula*/
+  
+
+}
+
+.umido{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.umidade{
+    display: flex;
+    color: #ffff;
+    align-items: center;
+    margin-top: 20px;
+   
+            
+}
+
+.img-umidade{
+    margin-right: 10px;
+}
+
+.vento{
+    display: flex;
+    color: #ffff;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+
+.img-vento{
+    margin-right: 10px;
+}
+
