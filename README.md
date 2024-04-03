@@ -1,13 +1,7 @@
 # Projeto Previsão do Tempo 
 ![logo](logo1.png)
 
-
-
-
-## Este projeto nos fornece informações atuais de quaiquer cidade do mundo 🌝⛈☂🌫🌡💧
-
-
-
+## Este projeto nos fornece informações atuais em qualquer cidade do mundo 🌝⛈☂🌫🌡💧
 
 ## Indice
 * <a href="#funcionalide">Funcionalidade</a>
@@ -30,7 +24,7 @@ Tela inicial
 
 ![captura-de-tela](Captura%20de%20tela%201_resized%20(2).png)
 
-Após inserir a cidade deseja,as informações são disponibiliza na tela seguinte.
+Após inserir a cidade deseja,as informações são disponibilizada na tela seguinte.
 
 ![captur-de-tela](Captura%20de%20tela%202_resized.png)
 
