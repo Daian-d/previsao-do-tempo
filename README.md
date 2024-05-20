@@ -31,7 +31,7 @@ Após inserir a cidade deseja,as informações são disponibilizada na tela segu
 ## Demostração do projeto
 [link demonstração]( https://daian-d.github.io/previsao-do-tempo/)
 
-## Tenologia utilizada no projeto
+## Tecnologia utilizada no projeto
 
 1. JavaScrpit
 2. HTML
@@ -45,12 +45,11 @@ O site explica passo-a-passo como implementar e rodar os códigos conforme a nec
 ## Pessoas Autoras
 Daiana Paula Fernandes
 
-<img src="20210205_164021%20(1).jpg" alt="Foto daiana" width="200">
+<img src="20210205_164021%20(1).jpg" alt="Foto daiana" height="100" width="90">
 
 
 
-[![Ícone do linkedin](linkedin.png)](https://www.linkedin.com/in/daianafernandespaula/
-)
+[![Ícone do linkedin](linkedin.png)](https://www.linkedin.com/in/daianafernandespaula/)
 
 [![Ícone do Instagram](instagram.png)](https://www.instagram.com/dayana.fernandes.378/)
 
