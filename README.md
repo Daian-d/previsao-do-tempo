@@ -29,7 +29,7 @@ Após inserir a cidade deseja,as informações são disponibilizada na tela segu
 ![captur-de-tela](Captura%20de%20tela%202_resized.png)
 
 ## Demostração do projeto
-[link demonstração]( https://daian-d.github.io/previsao-do-tempo/)
+[Clique aqui]( https://daian-d.github.io/previsao-do-tempo/)
 
 ## Tecnologia utilizada no projeto
 
@@ -45,7 +45,7 @@ O site explica passo-a-passo como implementar e rodar os códigos conforme a nec
 ## Pessoas Autoras
 Daiana Paula Fernandes
 
-<img src="20210205_164021%20(1).jpg" alt="Foto daiana" height="100" width="90">
+<img src="20210205_164021%20(1).jpg" alt="Foto daiana" width="70">
 
 
 
