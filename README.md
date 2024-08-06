@@ -1,32 +1,34 @@
 # Projeto Previsão do Tempo 
-![logo](logo1.png)
+
+<img width="60%" src="imagem/logo.png" >
+
 
 ## Este projeto nos fornece informações atuais em qualquer cidade do mundo 🌝⛈☂🌫🌡💧
 
 ## Indice
-* <a href="#funcionalide">Funcionalidade</a>
-* <a href="#layout">Layout</a>
-* <a href="#demostracao">Demostração</a>
-* <a href="#funcionalidade">Funcionalidade</a>
-* <a href="#autora">Pessoas Autoras</a>
+➡️ <a href="#funcionalide">Funcionalidade</a><br>
+➡️ <a href="#layout">Layout</a><br>
+➡️ <a href="#demostracao">Demostração</a><br>
+➡️ <a href="#funcionalidade">Funcionalidade</a><br>
+➡️ <a href="#autora">Pessoas Autoras</a><br>
 
 
 ## Funcionalidade do projeto
-- [x] Temperatura Atual
-- [x] Tmeperatura Máxima
-- [x] Temperatura Mínima
-- [x] Condições do Tempo
-- [x] Velocidade do Vento
-- [x] Umidade Relativa do Ar
+- [✔️] Temperatura Atual
+- [✔️] Temperatura Máxima
+- [✔️] Temperatura Mínima
+- [✔️] Condições do Tempo
+- [✔️] Velocidade do Vento
+- [✔️] Umidade Relativa do Ar
 
 ## Layout do projeto
 Tela inicial
 
-![captura-de-tela](Captura%20de%20tela%201_resized%20(2).png)
+<img src="imagem/Captura de tela 1_resized (2).png">
 
 Após inserir a cidade deseja,as informações são disponibilizada na tela seguinte.
 
-![captur-de-tela](Captura%20de%20tela%202_resized.png)
+<img src="imagem/Captura de tela 2_resized.png">
 
 ## Demostração do projeto
 [Clique aqui]( https://daian-d.github.io/previsao-do-tempo/)
@@ -45,13 +47,15 @@ O site explica passo-a-passo como implementar e rodar os códigos conforme a nec
 ## Pessoas Autoras
 Daiana Paula Fernandes
 
-<img src="20210205_164021%20(1).jpg" alt="Foto daiana" width="200">
+<img src="imagem/20210205_164021 (1).jpg" alt="Foto daiana" width="70">
 
+<a href="https://www.linkedin.com/in/daianafernandespaula/">
+     <img src="imagem/linkedin.png">
+</a>
 
-
-[![Ícone do linkedin](linkedin.png)](https://www.linkedin.com/in/daianafernandespaula/)
-
-[![Ícone do Instagram](instagram.png)](https://www.instagram.com/dayana.fernandes.378/)
+<a href="https://www.instagram.com/dayana.fernandes.378">
+    <img src="imagem/instagram.png">
+</a>
 
 
 
